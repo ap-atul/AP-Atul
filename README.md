@@ -1,16 +1,23 @@
-### Hi there 👋
 
-<!--
-**AP-Atul/AP-Atul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Hi there 👋
+[![linkedin badge](https://img.shields.io/badge/Atul_Patare-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/atul-patare-a768a3165/)
+[![email badge](https://img.shields.io/badge/Atul_Patare-30302f?style=flat&logo=gmail)](atulpatare99@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 I’m currently working on 
+  * Data Mining on open-source datasets with custom classifiers and regressions.
+  * Repo will be public soon 😉
+
+## 🌱 I’m currently learning
+  * Video Processing with Python
+  * PyQt5 GUI
+  * Machine learning with Sklearn
+
+## Stats
+
+<a href="https://github.com/AP-Atul/AP-Atul">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ap-atul&layout=compact" />
+</a>
+<a href="https://github.com/AP-Atul/AP-Atul">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ap-atul&count_private=true" />
+</a>
