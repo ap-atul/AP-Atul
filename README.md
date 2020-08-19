@@ -1,4 +1,4 @@
-
+<img src="https://github.com/AP-Atul/AP-Atul/blob/master/img/head.png" />
 
 ## Hi there 👋
 [![linkedin badge](https://img.shields.io/badge/Atul_Patare-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/atul-patare-a768a3165/)
