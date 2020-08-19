@@ -12,7 +12,7 @@
   * PyQt5 GUI
   * Machine learning with Sklearn
 
-## Stats
+## Stats 😀
 
 <a href="https://github.com/AP-Atul/AP-Atul">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ap-atul" />
