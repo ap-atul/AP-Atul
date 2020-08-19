@@ -1,6 +1,7 @@
+
 ## Hi there 👋
 [![linkedin badge](https://img.shields.io/badge/Atul_Patare-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/atul-patare-a768a3165/)
-[![email badge](https://img.shields.io/badge/Atul_Patare-30302f?style=flat&logo=gmail)](atulpatare99@gmail.com)
+[![twitter badge](https://img.shields.io/badge/@atul_patare-30302f?style=flat&color=blue&logo=twitter)](https://twitter.com/atul_patare)
 
 ## 🔭 I’m currently working on 
   * Data Mining on open-source datasets with custom classifiers and regressions.
