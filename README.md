@@ -6,6 +6,7 @@
 ## 🔭 I’m currently working on 
   * Data Mining on open-source datasets with custom classifiers and regressions.
   * Repo will be public soon 😉
+  * Video and audio processing (Motion detection, image grading, audio denoising, etc.)
 
 ## 🌱 I’m currently learning
   * Video Processing with Python
