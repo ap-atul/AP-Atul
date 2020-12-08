@@ -11,14 +11,5 @@
 
 ## 🌱 I’m currently learning
   * Video Processing with Python
-  * PyQt5 GUI
+  * PyQt5 GUI. Multithreading, Multiprocessing, etc.
   * Machine learning with Sklearn
-
-## Stats 😀
-
-<a href="https://github.com/AP-Atul/AP-Atul">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ap-atul" />
-</a>
-<a href="https://github.com/AP-Atul/AP-Atul">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ap-atul&count_private=true" />
-</a>
