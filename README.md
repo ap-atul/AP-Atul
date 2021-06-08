@@ -4,7 +4,7 @@
 [![email badge](https://img.shields.io/badge/@atul_patare-30302f?style=flat&logo=gmail)](mailto:atulpatare99@gmail.com)
 
 ## 🔭 I’m currently working on 
-  * Android apps (music players, manga reader).
+  * Android apps (music player, manga reader).
   * Data Mining on open-source datasets with custom classifiers and regressions.
   * Video and audio processing (Motion detection, image grading, audio denoising, etc.)
   * UI using PyQt5.
