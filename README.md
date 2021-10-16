@@ -5,5 +5,4 @@
 
 ## 🔭 I’m currently working on 
   * Developing a fully featured platform with Android, Node and Postgres.
-  * Building small pacakges to keep by brain active.
   * Trying not to forget python.
