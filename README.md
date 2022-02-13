@@ -5,4 +5,5 @@
 
 ## 🔭 I’m currently working on 
   * Developing a fully featured platform with Android, Node and Postgres.
+  * Web3, Blockchain, and The Graph
   * Trying not to forget python.
