@@ -1,7 +1,7 @@
 
 ## Currently working on
-Web3, Blockchain, and The Graph
-Android (Music Player)
+- Web3, Blockchain, and The Graph
+- Android (Music Player)
 
 ## Contact
 
