@@ -1,6 +1,7 @@
 
 ## Currently working on
-- Web3, Blockchain, and The Graph
+- Fuel (sway, indexer, and rust)
+- Ethereum and The Graph
 - Android (Music Player)
 
 ## Contact
