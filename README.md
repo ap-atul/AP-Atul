@@ -36,7 +36,7 @@ Github Profile [atulpatare](https://github.com/atulpatare)
 
 [![email badge](https://img.shields.io/badge/@atul_patare-30302f?style=flat&logo=gmail)](mailto:atulpatare99@gmail.com)
 [![linkedin badge](https://img.shields.io/badge/atul_patare-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/atul-patare-a768a3165/)
-[![discord badge](https://img.shields.io/badge/join_discord-30302f?style=flat&logo=discord)](https://discord.gg/RYg6cUg4)
+[![discord badge](https://img.shields.io/badge/join_discord-30302f?style=flat&logo=discord)](https://discord.gg/6CQ6u64dca)
 
 
 <!-- That's it folks -->
