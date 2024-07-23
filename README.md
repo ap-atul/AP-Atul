@@ -23,14 +23,6 @@
 ----- 
 
 <h3>
-    <samp>A L T E R N A T E</samp>
-</h3>
-
-
-
-<samp><a href='https://github.com/AP-Atul'>@atulpatare</a></samp>
-
-<h3>
     <samp>S K I L L S</samp>
 </h3>
 
