@@ -1,67 +1,56 @@
-<h3 align="center">
-    <samp>
-        <h1>A T U L <br/>  P A T A R E</h1>
-    </samp>
-</h3>
+<h1 align="center">
+  <samp><b>ATUL PATARE</b></samp>
+</h1>
 
 <p align="center">
-    <samp>
-        <strong>「 FULL STACK DEVELOPER 」</strong>
-    </samp>
+  <samp><strong>FULL STACK DEVELOPER</strong></samp>
 </p>
 
-<!-- languages -->
+<br/>
+
 <p align="center">
-    <img alt="Postgres" src="https://img.shields.io/badge/postgresql-3776AB?style=flat-square&logo=postgresql&logoColor=white">
-    <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-1572B6?style=flat-square&logo=Typescript&logoColor=white">
-    <img alt="React" src="https://img.shields.io/badge/-React-088da5?style=flat-square&logo=React&logoColor=white">
-    <img alt="Rust" src="https://img.shields.io/badge/-Rust-3f3138?style=flat-square&logo=Rust&logoColor=white">
-    <img alt="Typescript" src="https://img.shields.io/badge/-Java-ff7f50?style=flat-square&logo=Kotlin&logoColor=white">
-    <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white">
+  <img alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white">
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white">
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white">
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
 </p>
 
------ 
+---
 
-<h3>
-    <samp>S K I L L S</samp>
-</h3>
+## 🛠 Skills
 
+- **Backend**: Node.js  
+  - Frameworks: Hapi.js, Express.js, Nest.js, Fastify
+- **Frontend**: React, HTML, CSS, TailwindCSS, Next.js
+- **Databases**: PostgreSQL, MongoDB, MySQL
+- **DevOps**: GitHub CI/CD, GitLab CI/CD, AWS, Docker
+- **Other**: Vim, Bash, Linux Enthusiast
+- **Android Development**
+- **Smart Contracts**  
+  - Languages: Solidity, Sway  
+  - Frameworks/Testing: Hardhat, Rust
+- **Indexers**: Fuel Indexer, The Graph Subgraphs  
+  - Languages: Rust, AssemblyScript
+- **Web3 Libraries**: ethers.js, web3.js, WalletConnect
 
-* Contract Development
-    - Lang: Solidity, Sway
-    - Frameworks/Testing: Hardhat, Rust
-* Indexers: Fuel indexer, The Graph's Subgraph
-    - Lang: Rust, AssemblyScript
-* Web3 Libs: EtherJS, web3.js, Wallet Connect
-* Backend: NodeJS
-    - Frameworks: Hapi.js, Express.js, Nest.js)
-* Frontend: React, HTML, CSS
-* Database: PostgreSQL, MongoDB
-* DevOps: Github CI/CD, Gitlab CI/CD, AWS, Docker
-* Other: Vim, Bash, Linux Geek
-* Android App Development
+---
 
+## 🧩 Contributions
 
-<h3>
-    <samp>C O N T R I B U T I O N S</samp>
-</h3>
+- [Fuel Indexer](https://github.com/FuelLabs/fuel-indexer) — Contributed to core development
+- [Messari Subgraphs](https://github.com/messari/subgraphs) — Subgraph Developer
+- [Clipto Platform](https://github.com/Clipto-Platform)  
+  - Developed platform contracts in Solidity  
+  - Built website with React + TypeScript  
+  - Backend with Next.js + Subgraphs for data querying
 
+---
 
-* Contributed to [Fuel Indexer](https://github.com/FuelLabs/fuel-indexer)
-* Contributed to [Messari](https://github.com/messari/subgraphs) as a Subgraph Developer.
-* Worked on [Clipto](https://github.com/Clipto-Platform)
-    - Built platform contracts in Solidity
-    - Designed website with React and Typescript
-    - Backend with NextJS, Subgraph for data querying
+## 📫 Contact
 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-DB4437?style=flat-square&logo=gmail&logoColor=white)](mailto:atul.patare@launchventures.co)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atul-patare-a768a3165/)
+[![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/atul.patare)
 
-<h3>
-    <samp>C O N T A C T</samp>
-</h3>
-
-[![email badge](https://img.shields.io/badge/gmail-30302f?style=flat&logo=gmail)](mailto:atul.patare@launchventures.co)
-[![linkedin badge](https://img.shields.io/badge/linkedin-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/atul-patare-a768a3165/)
-[![discord badge](https://img.shields.io/badge/atul.patare-30302f?style=flat&logo=discord)](atul.patare)
-
-
-<!-- That's it folks -->
