@@ -3,18 +3,14 @@
 </h1>
 
 <p align="center">
-  <samp><strong>FULL STACK DEVELOPER</strong></samp>
+  <samp><strong>BACKEND STACK DEVELOPER</strong></samp>
 </p>
 
-<br/>
-
 <p align="center">
-  <img alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white">
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white">
-  <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white">
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white">
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
 </p>
 
 ---
@@ -37,7 +33,7 @@
 
 ---
 
-## 🧩 Contributions
+## 🧩 Open Source Contributions
 
 - [Fuel Indexer](https://github.com/FuelLabs/fuel-indexer) — Contributed to core development
 - [Messari Subgraphs](https://github.com/messari/subgraphs) — Subgraph Developer
@@ -50,7 +46,7 @@
 
 ## 📫 Contact
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-DB4437?style=flat-square&logo=gmail&logoColor=white)](mailto:atul.patare@launchventures.co)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-DB4437?style=flat-square&logo=gmail&logoColor=white)](mailto:atulpatare99@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atul-patare-a768a3165/)
 [![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/atul.patare)
 
