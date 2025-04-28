@@ -4,7 +4,7 @@
 
 <p align="center">
   <samp><strong>BACKEND DEVELOPER</strong></samp><br>
-  <a href="https://ap-atul.github.io">website</a>
+  <a href="https://atulpatare.in">website</a>
 </p>
 
 <p align="center">
